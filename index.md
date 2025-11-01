@@ -60,7 +60,7 @@ title: "Lihi Bolokan — Personal Page"
   <div class="card">
     <div class="grid">
       <!-- LEFT: biology-related image -->
-      <img class="photo" src="assets/biology.jpg" alt="Biology-themed image">
+      <img class="photo" src="biology.jpg" alt="Biology-themed image">
 
       <!-- RIGHT: content -->
       <div>
